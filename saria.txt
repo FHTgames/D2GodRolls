@@ -1,0 +1,4 @@
+title: FHTgames God Roll wish list.
+
+dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2726471870,2697220197#notes:FHTgames God Rolls. Excellent for add clearing and boss damage. Recommended MW [Range]
+dimwishlist:item=1392919471&perks=1482024992,106909392,1168162263,3592538738#notes:FHTgames God Rolls. Excellent for add clearing and short-to-mid range encounters. Recommended MWs [Range][Stability]
